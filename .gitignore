@@ -1,3 +1,6 @@
+# OS X Specific
+.DS_Store
+
 # Object files
 *.o
 *.ko
