@@ -1,5 +1,3 @@
-# tcpip-note
-
 [《TCP/IP详解 卷1：协议》](https://book.douban.com/subject/1088054/)的读书笔记
 
 # 目录
@@ -13,4 +11,6 @@
 [4. ARP：地址解析协议](4. ARP：地址解析协议.md)
 
 [5. RARP：逆地址解析协议](5. RARP：逆地址解析协议.md)
+
+[6. ICMP：Internet控制报文协议](6. ICMP：Internet控制报文协议.md)
 
