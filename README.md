@@ -14,3 +14,9 @@
 
 [6. ICMP：Internet控制报文协议](6. ICMP：Internet控制报文协议.md)
 
+[7. Ping程序](7. Ping程序.md)
+
+[8. Traceroute程序](8. Traceroute程序.md)
+
+
+
