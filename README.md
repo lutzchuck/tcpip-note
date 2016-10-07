@@ -18,5 +18,9 @@
 
 [8. Traceroute程序](8. Traceroute程序.md)
 
+[9. IP选路](9. IP选路.md)
+
+
+
 
 
