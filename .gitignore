@@ -34,3 +34,5 @@
 # Debug files
 *.dSYM/
 *.su
+.obsidian
+
